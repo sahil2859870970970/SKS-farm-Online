@@ -19,15 +19,14 @@ function Hero(){
                                             A healthy fruit
                        </h1>
                        
-                        <p className="text-sm"> js jsdnj jsdbjdjsdj 
-                           sdsuj bdbsa sakr jdj hrus sahil thakue
-                           sdjdjs sDFKbsdsd js js js jsdnj jsdbjdjsj 
-                           sdsuj bdbsa sakr jdj hrus sahil thakue
-                           sdjdjs
-                           sdsuj bdbsa sakr jdj hrus sahil thakue
-                           sdjdjs sDFKbsdsd js js js jsdnj jsdbjdjsdj 
-                           sdsuj bdbsa sakr jdj hrus sahil thakue
-                           sdjdjs
+                        <p className="text-sm"> At SKS Farm, we bring the taste of Himachal’s 
+                          finest apples straight from the orchard to your doorstep. 
+                          Carefully selected for freshness, natural sweetness, and quality,
+                           our apples are sourced directly from the hills of Himachal 
+                           Pradesh. From the orchard to your home, we focus on quality
+                            you can see, taste, and trust — so every bite feels fresh, 
+                            crisp, and naturally delicious.
+
                         </p>
                         <Link to="/shop">
                         <button className="border border-white px-4 py-2 rounded-lg">Shop Now</button>
