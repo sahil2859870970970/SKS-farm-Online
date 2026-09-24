@@ -23,8 +23,7 @@ function Hero(){
                           finest apples straight from the orchard to your doorstep. 
                           Carefully selected for freshness, natural sweetness, and quality,
                            our apples are sourced directly from the hills of Himachal 
-                           Pradesh ,so every bite feels fresh, 
-                            crisp, and naturally delicious.
+                           Pradesh.
 
                         </p>
                         <Link to="/shop">
